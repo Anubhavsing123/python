@@ -1,0 +1,6 @@
+# Assign a different name to the function display_student(name, age) and call it using the new name. For example, assign it to a variable called show_student.
+
+def display_student(name,age):
+    print (name,age)
+show=display_student
+show("Anubhav",23)
