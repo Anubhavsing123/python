@@ -1,0 +1,2 @@
+#Exercise 37. Write a Python program to flatten a multi-level nested dictionary into a single-level dictionary, joining nested keys with a dot separator to form the new keys.
+nested = {"a": 1, "b": {"c": 2, "d": {"e": 3, "f": 4}}}
